@@ -1,0 +1,15 @@
+C:\Users\Senai.CEPEAS21103946\source\repos\09\bin\Debug\net7.0\09.exe
+C:\Users\Senai.CEPEAS21103946\source\repos\09\bin\Debug\net7.0\09.deps.json
+C:\Users\Senai.CEPEAS21103946\source\repos\09\bin\Debug\net7.0\09.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103946\source\repos\09\bin\Debug\net7.0\09.dll
+C:\Users\Senai.CEPEAS21103946\source\repos\09\bin\Debug\net7.0\09.pdb
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\09.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\09.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\09.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\09.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\09.dll
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\refint\09.dll
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\09.pdb
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\09.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103946\source\repos\09\obj\Debug\net7.0\ref\09.dll
